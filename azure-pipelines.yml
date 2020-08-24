@@ -15,3 +15,5 @@ extends:
     platforms:
       - win2016_vs2017
       - win2019_vs2019
+    build_types:
+      - Release
